@@ -47,19 +47,23 @@ Practice of using a network of remote servers hosted on the Internet to store, m
 ### Public Cloud
 Everything on the Cloud Provider 
 Also Known as **Cloud- Native**
+
 ![image](https://user-images.githubusercontent.com/98258627/215633768-f71696f9-2d7f-4324-99d8-31cc3060c296.png)
 
 ### Private Cloud
 Everything on the company's datacentres
 Also Known as **On-Premise**
+
 ![image](https://user-images.githubusercontent.com/98258627/215633724-26a4abad-6513-4771-978c-0051eb65aec2.png)
 
 ### Hybrid 
 Using both On-Premise and CLoud Service Provider
+
 ![image](https://user-images.githubusercontent.com/98258627/215633581-cd739ff0-ef58-472e-b065-0519b015e051.png)
 
 ### Cross Cloud (Not asked in Exam)
 Using Multiple Cloud Providers
+
 ![image](https://user-images.githubusercontent.com/98258627/215633667-3b6d0df0-d01f-4ae8-a065-dd3c6d8cc6c9.png)
 ### Pros and Cons Table
 ![image](https://user-images.githubusercontent.com/98258627/215633623-d8ab8252-f860-427a-9706-219dbecbfed2.png)
